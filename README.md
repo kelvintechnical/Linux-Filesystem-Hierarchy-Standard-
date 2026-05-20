@@ -1,6 +1,10 @@
 ### 🗂️ Linux Filesystem Hierarchy Standard (FHS)
 > Understand the purpose of every directory in the Linux root filesystem (`/`). Each lab includes a short hands-on exercise demonstrating real-world usage.
 
+
+<img width="943" height="471" alt="Screenshot From 2026-05-20 18-11-27" src="https://github.com/user-attachments/assets/3034f09f-e791-42a7-ab95-6f5feba4fa16" />
+
+
 | # | Lab | Directory | Purpose |
 |---|-----|-----------|---------|
 | 01 | [What is the /bin directory?](https://github.com/kelvintechnical/what-is-the-bin-directory) | `/bin` | Essential user commands — `ls`, `cp`, `cat` |
