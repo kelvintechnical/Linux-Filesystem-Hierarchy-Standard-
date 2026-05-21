@@ -9,7 +9,7 @@
 |---|-----|-----------|---------|
 | 01 | [What is the /bin directory?](https://github.com/kelvintechnical/bin-directory) | `/bin` | Essential user commands — `ls`, `cp`, `cat` |
 | 02 | [What is the /sbin directory?](https://github.com/kelvintechnical/sbin-directory) | `/sbin` | Admin-only commands — `fdisk`, `reboot`, `iptables` |
-| 03 | [What is the /lib directory?](https://github.com/kelvintechnical/what-is-the-lib-directory) | `/lib` | Shared libraries needed by `/bin` and `/sbin` |
+| 03 | [What is the /lib directory?](https://github.com/kelvintechnical/lib-directory) | `/lib` | Shared libraries needed by `/bin` and `/sbin` |
 | 04 | [What is the /lib64 directory?](https://github.com/kelvintechnical/what-is-the-lib64-directory) | `/lib64` | 64-bit shared libraries |
 | 05 | [What is the /usr directory?](https://github.com/kelvintechnical/what-is-the-usr-directory) | `/usr` | User programs, utilities, and their libraries |
 | 06 | [What is the /etc directory?](https://github.com/kelvintechnical/what-is-the-etc-directory) | `/etc` | System-wide configuration files |
